@@ -20,7 +20,6 @@ I'm open to collaborating on:
 - Open source infrastructure projects
 
 ## 📫 How to Reach Me
-- 📧 Email: jyothimatta@example.com  
 - 💼 LinkedIn: [linkedin.com/in/jyothimatta](https://linkedin.com/in/jyothimatta)  
 
 ## 😄 Pronouns
