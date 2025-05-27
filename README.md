@@ -22,7 +22,6 @@ I'm open to collaborating on:
 ## 📫 How to Reach Me
 - 📧 Email: jyothimatta@example.com  
 - 💼 LinkedIn: [linkedin.com/in/jyothimatta](https://linkedin.com/in/jyothimatta)  
-- 📝 Portfolio: [jyothimatta.dev](https://jyothimatta.dev)
 
 ## 😄 Pronouns
 She/Her
