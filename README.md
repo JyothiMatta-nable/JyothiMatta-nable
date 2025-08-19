@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - Cloud technologies (AWS)
 - DevOps and CI/CD pipelines
 - Infrastructure as Code (Terraform, Ansible)
-- Backend development (Python, Go)
+- Backend development (Python, Java)
 
 ## 🌱 Currently Learning
 - Kubernetes and container orchestration
